@@ -1,0 +1,3 @@
+[submodule "CookieClicker_RegressionTests"]
+	path = CookieClicker_RegressionTests
+	url = https://github.com/gajananbogam/Updated_CookieClicker.git
